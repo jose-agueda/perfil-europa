@@ -1,0 +1,76 @@
+body {
+	margin: 0;
+	font-family: Roboto, Arial, sans-serif;
+	line-height: 24px;
+}
+
+header {
+	text-align:  center;
+	padding: 120px 10px;
+	background-image: url(https://images.unsplash.com/photo-1634635720982-88d440c3f4a7?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+	background-size: cover;
+	background-position: center;
+}
+
+header p {
+	color: white;
+}
+h1 {
+	font-family: Bigshot One, Aria, sans-serif;
+	font-size: 48px;
+	color: white;
+	text-transform: uppercase;
+}
+
+
+
+div {
+	max-width: 600px;
+	margin: 40px auto;
+	padding: 10px;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	background-color: #2B677C;
+}
+
+.botao {
+	background-color: #164455;
+	padding: 10px 20px;
+	border-radius: 20px;
+	text-decoration: none;
+	color:  #ffefe8;
+	font-weight: bold;
+}
+
+.botao:hover {
+	color: #2B677C;
+}
+
+.lista-links {
+	list-style: none;
+	padding-left: 0;
+	margin-bottom: 0;
+
+}
+
+.lista-links a {
+	color: white;
+
+}
+
+.lista-links li {
+	display: inline;
+	margin: 0 10px;
+}
+
+.pergunta {
+	margin-bottom: 20px;
+}
+
+#explicacao {
+	min-height: 58px;
+}
+
